@@ -10,3 +10,4 @@ function toggleMenu(event) {
 
 // event
 menu.addEventListener('click', toggleMenu, false);
+
