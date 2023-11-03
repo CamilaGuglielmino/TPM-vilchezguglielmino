@@ -99,8 +99,8 @@
         <span class="error">*</span> WhatsApp/Teléfono m&oacutevil:<br> 
             <input type="number" name="numero"><br>
         <span class="error"> <?php echo $numeroError; ?></span><br><br>
-
+ 
             <input type="submit" value="CREAR CUENTA">
-            </form>
+     </form>
     </body>
 </html>
